@@ -10,7 +10,7 @@ import (
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/go-swagger/go-swagger/examples/go-usersclient/client/users"
+	"github.com/shivani-0409/go-usersclient/client/users"
 )
 
 // Default go usersclient HTTP client.
